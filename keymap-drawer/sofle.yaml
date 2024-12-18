@@ -61,7 +61,7 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
-  - LAYER 2
+  - {t: '$$mdi:backspace$$', h: LAYER 2}
   - RGUI
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:backspace-reverse-outline$$
@@ -149,7 +149,7 @@ layers:
   - PRINTSCREEN
   - APPLICATION
   - AC SEARCH
-  - Ctl+ L
+  - Ctl+L
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - PgUp
   - HOME
@@ -158,7 +158,7 @@ layers:
   - _
   - +
   - {t: '$$mdi:transfer$$', type: trans}
-  - Ctl+ A
+  - Ctl+A
   - OUT BLE
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -171,18 +171,18 @@ layers:
   - '{'
   - '}'
   - {t: '$$mdi:transfer$$', type: trans}
-  - Ctl+ Z
-  - Ctl+ X
-  - Ctl+ C
-  - Ctl+ V
+  - Ctl+Z
+  - Ctl+X
+  - Ctl+C
+  - Ctl+V
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:backup-restore$$', type: bootloader}
   - '&soft_off'
-  - Alt+ F4
-  - Alt+Ctl+ $$mdi:backspace-reverse-outline$$
+  - Alt+F4
+  - Alt+Ctl+$$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
