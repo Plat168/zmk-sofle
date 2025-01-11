@@ -86,7 +86,7 @@
 &trans     &trans        &kp PRINTSCREEN  &kp K_APPLICATION  &kp C_AC_SEARCH  &kp LC(L)       &mmv MOVE_DOWN   &kp PAGE_UP    &kp HOME        &kp UP        &kp END       &trans        &trans
 &trans     &kp LC(A)     &out OUT_BLE     &trans             &trans           &trans          &mmv MOVE_LEFT   &kp PAGE_DOWN  &kp LEFT        &kp DOWN      &kp RIGHT     &trans        &trans
 &trans     &kp LC(Z)     &kp LC(X)        &kp LC(C)          &kp LC(V)        &trans          &mmv MOVE_RIGHT  &trans         &trans          &sys_reset    &soft_off     &kp LA(F4)    &kp LA(LC(DEL))
-&trans     &trans        &trans           &trans             &trans           &trans          &mkp LCLK        &trans         &trans          &trans        &trans        &trans
+&trans     &trans        &trans           &trans             &trans           &trans          &mkp LCLK        &trans         &trans          &trans        &trans        &kp DEL
             >;
 
             sensor-bindings = <&scroll_encoder>;
