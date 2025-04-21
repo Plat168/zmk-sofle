@@ -61,7 +61,7 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: '$$mdi:backspace$$', h: LAYER 2}
+  - LAYER 2
   - $$mdi:apple-keyboard-option$$
   - RGUI
   - $$mdi:apple-keyboard-control$$
