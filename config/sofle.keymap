@@ -99,6 +99,8 @@
 &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans           &trans           &trans           &trans           &trans
 &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans           &trans           &trans           &trans
             >;
+
+            label = "LAYER 3";
         };
     };
 
